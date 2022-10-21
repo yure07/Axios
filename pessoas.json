@@ -1,0 +1,33 @@
+[
+    {
+        "nome": "Davi",
+        "sobrenome": "Rafael",
+        "idade": 18,
+        "sexo": "M"
+    },
+    {
+        "nome": "Pedro",
+        "sobrenome": "Henrique",
+        "idade": 23,
+        "sexo": "M"
+    },
+    {
+        "nome": "Maria",
+        "sobrenome": "Fernanda",
+        "idade": 19,
+        "sexo": "F"
+    },
+    {
+        "nome": "Ana",
+        "sobrenome": "Vitória",
+        "idade": 33,
+        "sexo": "F" 
+    },
+    {
+        "nome": "Pedro",
+        "sobrenome": "Lucas",
+        "idade": 31,
+        "sexo":"M" 
+    }
+]
+
