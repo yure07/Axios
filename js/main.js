@@ -1,10 +1,10 @@
-axios('pessoas.json')
-.then(resposta => carregaDadosUsuario(resposta.data))
+axios('pessoas.json') // receber o arquivo JSON já convertido
+.then(resposta => carregaDadosUsuario(resposta.data)) // executa já a função para exibi-los 
 
 function carregaDadosUsuario(json) {
     const table = document.createElement('table')
 
-    for(let pessoas of json) {
+    for(let pessoas of json) {  // para cada iteração do laço criar elementos na tabela
         const tr = document.createElement('tr')
         table.appendChild(tr)
 
